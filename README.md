@@ -1,4 +1,4 @@
-# Dashboard Gerencial No Power BI: Análise Trimestral De Campanhas - Agência De Marketing Digital 📊
+# Dashboard Gerencial No Power BI: Análise Trimestral De Campanhas - Agência De Marketing Digital 📊🔍
 ![Alt ou título da imagem](https://github.com/Philippeizidorio/Dashboard_PowerBIMarketing/assets/145637595/32d3174e-fdfb-40b2-ac0d-4367e8b308c9)
 ### ◾Contexto: 
 
