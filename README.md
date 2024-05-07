@@ -42,7 +42,9 @@ Por fim, com todas as etapas anteriores plenamente definidas, é momento da cria
 3. Gráfico Tipo Pizza;
 4. Gráfico Tipo Barras;
 5. Gráfico Tipo Linhas;
-6. Botão para alternar entre as páginas.
+6. Botão para alternar entre as páginas;
+7. Formatação visual;
+8. Recursos de análise.
 
 Você pode visualizar o resultado do Dashboard na Web [**CLICANDO AQUI!**](https://app.powerbi.com/view?r=eyJrIjoiMWUzNTA4NTAtOWRhYy00NzBiLTk5YzUtYzU1N2FmNzM4OTM5IiwidCI6IjRhMTg3ZWI1LTNmM2UtNDViOS05ODZkLTI4ZTY3YzI4Njk1NiJ9) Ou baixando a demonstração do mesmo que está em formato .pdf logo acima nos arquivos deste repositório. 
 
