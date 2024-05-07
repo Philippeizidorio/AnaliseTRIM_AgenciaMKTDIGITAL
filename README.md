@@ -13,7 +13,7 @@ a tomada de decisão mais informada e estratégica.
 
 ### ◾Análise Exploratória De Dados(AED): 
 
-Após ter coletado os dados, foi feita uma análise exploratória a fim de realizarmos certos tratamentos, removendo erros, outliers além de trabalharmos no entendimento dos dados, extração de insights e identificação de padrões. 
+Após ter coletado os dados da base em .CSV, foi feita uma análise exploratória a fim de realizarmos certos tratamentos, removendo erros, outliers além de trabalharmos no entendimento dos dados, extração de insights e identificação de padrões. 
 
 ### ◾Requisitos de dados: 
 
@@ -31,7 +31,7 @@ Após ter coletado os dados, foi feita uma análise exploratória a fim de reali
 
 ### ◾Extract,Transform, And Load(ETL): 
 
-Realizei a extração, manipulação, modelagem de dados no formato multidimensional e carregamento dos mesmos através da ferramenta Power Query do Power BI, sendo necessária a criação de novos índices de colunas e a união desses com a tabela Fact além da adição de uma nova coluna calculada.
+Realizei a extração, manipulação, modelagem de dados no formato multidimensional e carregamento dos mesmos através da ferramenta Power Query do Power BI, sendo necessária a criação de novos índices de colunas e tabelas, posteriormente, trabalhei na união dessas com a tabela Fact por meio de suas respectivas Foreign Keys(FKs) além da adição de uma nova coluna calculada.
 
 ### ◾ Criação Do Dashboard:
 
