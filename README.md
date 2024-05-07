@@ -37,4 +37,15 @@ Realizei a extração, manipulação, modelagem de dados no formato multidimensi
 
 Por fim, com todas as etapas anteriores plenamente definidas, é momento da criação do dashboard em sí, para isso, utilizei os seguintes gráficos e recursos do Power BI ↓
 
+1. Filtro De Data;
+2. Cards Únicos;
+3. Gráfico Tipo Pizza;
+4. Gráfico Tipo Barras;
+5. Gráfico Tipo Linhas;
+6. Botão para alternar entre as páginas.
 
+### ◾ Tecnologias Utilizadas: 
+<div <br> 
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+</div> 
