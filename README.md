@@ -1,4 +1,4 @@
-## Desenvolvimento de um Dashboard Gerencial 📊
+## Desenvolvimento de um Dashboard Gerencial 📊🔍
 
 ### ◾Contexto: 
 
