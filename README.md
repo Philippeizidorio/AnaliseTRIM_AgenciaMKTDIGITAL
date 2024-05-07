@@ -53,7 +53,7 @@ Você pode visualizar o resultado do Dashboard na web [**CLICANDO AQUI!**](https
 1. Usuários oriundos das cidades de Brasília, Salvador e São Paulo representam a maior quantidade de compradores e receita média por compra;
 3. Website é a plataforma que contém a maior quantidade de usuários ativos com mais de 5 milhões;
 4. Website é a plataforma que trouxe maior parte do montante faturado no quarter em questão;
-5. Brasília e São Paulo são as cidades que apresentam a maior média de entrada de novos usuários no período, possuindo grande tendência em trazer um _CAC(Custo de aquisição por cliente) menor;_
+5. Brasília e São Paulo são as cidades que apresentam a maior média de entrada de novos usuários no período, possuindo grande tendência em trazer um _CAC(Custo de aquisição por cliente)_ menor;
 6. O público do negócio em questão é majoritariamente feminino;
 7. A origem dos compradores se dá em grande parte das redes sociais, busca orgânica e anúncios pagos.
 
