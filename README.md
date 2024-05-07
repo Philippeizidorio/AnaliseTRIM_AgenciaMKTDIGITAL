@@ -55,8 +55,6 @@ Você pode visualizar o resultado do Dashboard na web [**CLICANDO AQUI!**](https
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
 </div> 
 
----
-
 ## Autor:
 
 <img  src="https://github.com/Philippeizidorio/Dashboard_PowerBIMarketing/assets/145637595/dd3c301c-3cd3-4808-92c8-a321553f7acf" width="80" alt="cognitiveclass.ai logo" align="left" /> 
