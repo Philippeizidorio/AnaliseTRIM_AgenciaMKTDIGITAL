@@ -29,4 +29,7 @@ Após ter coletado os dados, foi feita uma análise exploratória a fim de reali
 - **Usuários ativos por gênero:** [Quantidade de compradores por gênero]
 - **Percentual de Visualização:** [% de visualização em relação a quant. de usuários ativos]
 
+### ◾Extract,Transform, And Load(ETL): 
+
+Realizei a extração, manipulação, modelagem de dados no formato multidimensional e carregamento dos mesmos através da ferramenta Power Query do Power BI, sendo necessária a criação de novos índices de colunas e a união desses com a tabela Fact além da adição de uma nova coluna calculada.
 
