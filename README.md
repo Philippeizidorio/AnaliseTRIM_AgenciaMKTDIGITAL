@@ -1,6 +1,6 @@
 ## Desenvolvimento de um Dashboard Gerencial 📊
 
-### ◾ Contexto: 
+### ◾Contexto: 
 
 A empresa de Marketing Digital "X" precisa atingir uma meta ambiciosa neste
 trimestre e precisa identificar os melhores planos de ação para alcançá-la. Para
@@ -11,11 +11,11 @@ os melhores planos de ação com o objetivo de aumentar o número de usuários c
 e impulsionar o crescimento da empresa. O dashboard será uma ferramenta essencial para 
 a tomada de decisão mais informada e estratégica.
 
-### ◾ Análise Exploratória De Dados(AED): 
+### ◾Análise Exploratória De Dados(AED): 
 
 Após ter coletado os dados, foi feita uma análise exploratória a fim de realizarmos certos tratamentos, removendo erros, outliers além de trabalharmos no entendimento dos dados, extração de insights e identificação de padrões. 
 
-### ◾ Requisitos de dados: 
+### ◾Requisitos de dados: 
 
 - **Data do período analisado:** [Data do período p/análise temporal]
 - **Receita total:** [Receita total da data]
@@ -29,7 +29,7 @@ Após ter coletado os dados, foi feita uma análise exploratória a fim de reali
 - **Usuários ativos por gênero:** [Quantidade de compradores por gênero]
 - **Percentual de Visualização:** [% de visualização em relação a quant. de usuários ativos]
 
-### ◾ Extract,Transform, And Load(ETL): 
+### ◾Extract,Transform, And Load(ETL): 
 
 Realizei a extração, manipulação, modelagem de dados no formato multidimensional e carregamento dos mesmos através da ferramenta Power Query do Power BI, sendo necessária a criação de novos índices de colunas e a união desses com a tabela Fact além da adição de uma nova coluna calculada.
 
