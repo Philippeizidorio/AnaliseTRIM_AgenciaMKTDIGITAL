@@ -13,7 +13,7 @@ a tomada de decisão mais informada e estratégica.
 
 ### ◾Análise Exploratória De Dados(AED): 
 
-Após ter coletado os dados da base em .CSV, foi feita uma análise exploratória a fim de realizarmos certos tratamentos, removendo erros, outliers além de trabalharmos no entendimento dos dados, extração de insights e identificação de padrões. 
+Após ter coletado os dados da base em .CSV, foi feita uma análise exploratória a fim de realizarmos certos tratamentos, removendo erros, outliers além de trabalharmos no entendimento dos dados, identificação de tendências e extração de insights. 
 
 ### ◾Requisitos de dados: 
 
