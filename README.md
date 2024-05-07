@@ -49,6 +49,12 @@ Por fim, com todas as etapas anteriores plenamente definidas, é momento da cria
 
 Você pode visualizar o resultado do Dashboard na web [**CLICANDO AQUI!**](https://app.powerbi.com/view?r=eyJrIjoiMWUzNTA4NTAtOWRhYy00NzBiLTk5YzUtYzU1N2FmNzM4OTM5IiwidCI6IjRhMTg3ZWI1LTNmM2UtNDViOS05ODZkLTI4ZTY3YzI4Njk1NiJ9) Ou baixando a demonstração do mesmo que está em formato .pdf logo acima nos arquivos deste repositório. 
 
+### ◾ Através desse relatório, podemos analisar que no trimestre: 
+1. Usuários oriundos das cidades de Brasília, Salvador e São Paulo representam a maior quantidade de compradores e receita média por compra;
+3. Website é a plataforma que contém a maior quantidade de usuários ativos com mais de 5 milhões;
+4. Website é a plataforma que trouxe maior parte do montante faturado no quarter em questão;
+5. Brasília e São Paulo são as cidades que maior apresenta a maior média de entrada de novos usuários no período, possuindo grandes chances de trazer um _CAC(Custo de aquisição por cliente) menor._
+
 ### ◾ Tecnologias Utilizadas: 
 <div <br> 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
