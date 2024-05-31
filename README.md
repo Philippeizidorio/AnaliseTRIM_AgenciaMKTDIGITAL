@@ -65,7 +65,7 @@ Você pode visualizar o resultado do Dashboard na web [**CLICANDO AQUI!**](https
 
 ## Autor:
 
-<img  src="https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL/assets/145637595/b85a4110-239d-4726-a58c-40a54f894634" width="80" alt="cognitiveclass.ai logo" align="left" /> 
+<img  src="https://github.com/Philippeizidorio/AnaliseTRIM_AgenciaMKTDIGITAL/assets/145637595/562ce296-0c61-4895-aebc-4a5b980d319a" width="80" alt="cognitiveclass.ai logo" align="left" /> 
 
 ### &nbsp;&nbsp;Philippe Izidório
 
