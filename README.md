@@ -70,7 +70,7 @@ Você pode visualizar o resultado do Dashboard na web [**CLICANDO AQUI!**](https
 ### &nbsp;&nbsp;Philippe Izidório
 
 <p>
-&nbsp;&nbsp;Cientista de Dados / Business Intelligence / Analista de Dados<br/>
+&nbsp;&nbsp;Estudante em Ciência De Dados / Business Intelligence / Analista de Dados<br/>
 &nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/philippeizidorio/<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: euphilippeizidorio@gmail.com<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portifólio de projetos em Data Science: https://github.com/Philippeizidorio
