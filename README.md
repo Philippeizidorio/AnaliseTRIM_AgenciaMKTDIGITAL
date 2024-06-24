@@ -1,4 +1,4 @@
-# Análise De Campanhas Dentro Do Power BI Para Traçar Planos De Ação Com Foco Em Aumentar O Número De Usuários Cadastrados - Agência De Marketing Digital 📊🔍
+# Análise De Campanhas Dentro Do Power BI Para Traçar Planos De Ação Com Foco Em Aumentar O Número De Usuários Cadastrados - Agência De Marketing Digital 📊
 ![Alt ou título da imagem](https://github.com/Philippeizidorio/Dashboard_PowerBIMarketing/assets/145637595/32d3174e-fdfb-40b2-ac0d-4367e8b308c9)
 ### ◾Contexto: 
 
