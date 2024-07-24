@@ -15,10 +15,10 @@ a tomada de decisão mais informada e estratégica.
 
 Após ter coletado os dados da base em .CSV, foi feita uma análise exploratória a fim de realizarmos certos tratamentos, removendo erros, outliers além de trabalharmos no entendimento dos dados, identificação de tendências e extração de insights. 
 
-### ◾Requisitos de dados: 
+### ◾Requisitos de negócio/dados: 
 
 - **Data do período analisado:** [Data do período p/análise temporal]
-- **Receita total:** [Receita total da data]
+- **Receita total:** [Receita total na data]
 - **Soma da Receita média por compra:** [Soma da Receita média na data]
 - **Total de compradores:** [Quantidade de compradores na data]
 - **Visualizações:** [Quantidade de visualizações na data]
